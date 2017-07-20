@@ -1,0 +1,24 @@
+/* Scss Document */
+/* Scss Document */
+/* line 4, ../scss/_color.scss */
+.huge {
+  font-size: 10em;
+  font-weight: thin;
+  text-decoration: underline;
+}
+
+/* line 5, ../scss/style.scss */
+#main {
+  color: #fff;
+  background-color: #000;
+}
+/* line 8, ../scss/style.scss */
+#main p {
+  width: 10em;
+}
+
+/* line 12, ../scss/style.scss */
+.class {
+  height: 100px;
+  width: 10px;
+}
